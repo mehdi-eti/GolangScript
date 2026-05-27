@@ -32,3 +32,8 @@ go.work.sum
 # .vscode/
 
 **/*.zip
+
+
+# 
+**/*.txt
+*.txt

@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-27",
+    "session_start": "2026-05-27T11:42:54+03:30",
+    "session_end": "2026-05-27T11:43:29+03:30",
+    "total_work_seconds": 24,
+    "total_break_seconds": 10,
+    "breaks": [
+      {
+        "start": "2026-05-27T11:43:06+03:30",
+        "end": "2026-05-27T11:43:16+03:30",
+        "duration_seconds": 10
+      }
+    ]
+  }
+]
